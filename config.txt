@@ -1,1 +1,2 @@
 c'est un examen git
+hello my friend
